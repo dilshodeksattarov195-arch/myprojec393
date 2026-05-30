@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcerify",
+        "uuid": 1852209,
+        "checksum": "yxakfd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
